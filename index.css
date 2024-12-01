@@ -508,6 +508,14 @@ form {
     grid-template-columns: 1fr;
   }
 
+  .form-container {
+    width: 90%;
+  }
+
+  .details button {
+    padding: 10px;
+  }
+
   .product-details-container {
     grid-template-columns: 1fr;
   }
