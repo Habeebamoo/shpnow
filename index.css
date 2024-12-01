@@ -321,7 +321,9 @@ Responsive styles
 }
 
 .product-details-image-container img {
-  max-height: 100%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
 }
 
 .product-details-price-container, .product-details-quantity-container {
