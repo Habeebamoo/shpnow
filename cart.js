@@ -78,8 +78,7 @@ function renderProductDetails() {
     document.querySelectorAll('.remove-btn').forEach((removeBtn, i) => {
       removeBtn.addEventListener('click', () => {
         details.splice(i, 1);
-        //renderProductDetails();
-        document.querySelector('.details').style.display = 'none';
+        renderProductDetails();
       })
     })
 
