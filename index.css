@@ -265,7 +265,6 @@ Responsive styles
   left: 0;
   right: 0;
   height: 100%;
-  overflow-y: hidden;
 
   background: rgba(255, 255, 255, 0.3);
   backdrop-filter: blur(10px);
