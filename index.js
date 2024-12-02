@@ -77,5 +77,5 @@ document.querySelector('#close-btn').addEventListener('click', () => {
 });
 
 document.querySelector('.hero-btn').addEventListener('click', () => {
-  document.querySelector('.hero-text').innerHTML = "Scroll down to see our products";
+  document.querySelector('.details').style.display = "block";
 })
