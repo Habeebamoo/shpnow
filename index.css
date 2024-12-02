@@ -309,7 +309,7 @@ Responsive styles
   padding: 20px;
   border-radius: 20px;
   text-align: center;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4);
 
   display: grid;
   grid-template-columns: 100px 1fr 200px 200px;
@@ -437,7 +437,7 @@ Responsive styles
   padding: 20px;
   background-color: #fff;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4);
   max-width: 400px;
 }
 
