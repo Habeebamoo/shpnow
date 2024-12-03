@@ -181,11 +181,19 @@ Responsive styles
   padding: 50px 0;
 }
 
-.hero .btn {
+.btn {
   background-color: #f1c40f;
   color: black;
   padding: 10px 20px;
   text-decoration: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn img {
+  height: 10px;
 }
 
 .hero .btn:hover {
