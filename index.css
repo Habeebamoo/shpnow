@@ -179,22 +179,18 @@ Responsive styles
   background-color: #333;
   color: white;
   padding: 50px 0;
-  width: 50px;
 }
 
 .btn {
-  background-color: #f1c40f;
+  background-color: #fff;
   color: black;
   padding: 10px 20px;
   text-decoration: none;
-
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+  width: 50px;
 }
 
 .btn img {
-  height: 10px;
+  height: 30px;
 }
 
 .hero .btn:hover {
