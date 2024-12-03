@@ -179,9 +179,7 @@ Responsive styles
   background-color: #333;
   color: white;
   padding: 50px 0;
-
-  display: flex;
-  justify-content: center;
+  width: 50px;
 }
 
 .btn {
