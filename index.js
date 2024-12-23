@@ -47,7 +47,7 @@ function renderFeaturedProducts() {
       <div class="product-image-container">
         <img src="${featuredProduct.image}">
       </div>
-      <div class="product-name"><h4>${featuredProduct.name}</h4></div>
+      <div class="product-name"><h3>${featuredProduct.name}</h3></div>
       <div class="product-price">N${(featuredProduct.price).toLocaleString()}</div>
       <div>
         <button class="product-btn" data-product-image="${featuredProduct.image}" data-product-name="${featuredProduct.name}" data-product-price="${featuredProduct.price}" data-whatsapp-contact="${featuredProduct.whatsappContact}">Add to Cart</button>
